@@ -1,0 +1,15 @@
+
+#taskList .strike{
+
+	text-decoration: line-through;
+}
+
+h2{
+	font-style: italic;
+}
+
+
+#clearTasks{
+
+	float: right;
+}
